@@ -69,11 +69,12 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/utkarsha-salve-253b95259/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/utkarsha-salve-253b95259/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=utkarshasalve90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-utkarshasalve90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:utkarshasalve90@gmail.com" target="_blank" title="Say hi on Gmail">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" alt="Gmail" />
   </a>
 </p>
 
