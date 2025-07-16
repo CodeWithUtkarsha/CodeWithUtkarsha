@@ -65,11 +65,8 @@
   <a href="http://www.linkedin.com/in/utkarsha-salve-253b95259/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:utkarshasalve90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://mail.google.com/mail/?view=cm&to=utkarshasalve90@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-utkarshasalve90@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<p align="center">
-  📫 Email: <a href="mailto:utkarshasalve90@gmail.com">utkarshasalve90@gmail.com</a>
-</p>
