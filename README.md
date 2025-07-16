@@ -23,7 +23,7 @@
 - 💡 Passionate about building meaningful digital solutions  
 - 🌱 Currently learning: `AI integrations`, `System Design`, `MERN stack`  
 - ⚡ Open source contributor & hackathon enthusiast  
-- 📫 Reach me at: **utkarsha.vijay225@gmail.com**
+- 📫 Reach me at: **utkarshasalve90@gmail.com**
 
 ---
 
