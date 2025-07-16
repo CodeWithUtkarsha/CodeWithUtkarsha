@@ -19,31 +19,34 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech in Computer Science and Business Systems  
-- 💡 Passionate about building meaningful digital solutions  
-- 🌱 Currently learning: `AI integrations`, `System Design`, `MERN stack`  
-- ⚡ Open source contributor & hackathon enthusiast  
+- 🎓 Final Year B.Tech CSBS student at GITAM University  
+- 💻 MERN stack enthusiast focused on clean, scalable web apps  
+- 🌱 Learning DSA, System Design, and Cloud integration  
+- 🤝 Team player with hands-on project and internship experience  
 - 📫 Reach me at: **utkarshasalve90@gmail.com**
 
 ---
 
 ## 🔧 Currently Working On
 
-- 🛠 Building a personal **developer portfolio site** using React + Tailwind  
-- 🤖 Enhancing **CivicAI** with priority-based ticketing using NLP  
-- 📘 Learning: `TypeScript`, `Next.js`, `DSA for interviews`  
-- 🚀 Preparing for placement & internship opportunities
+- 🛠 Personal portfolio (React + Tailwind)  
+- 🤖 NLP-based upgrades for CivicAI  
+- 📱 Android app dev (Kotlin) – Google Internship  
+- ☁️ AWS Data Engineering (ETL pipelines)  
+- 💡 Upskilling with TypeScript & Next.js
 
 ---
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Winner @ CodeBeat Hackathon** – BITS Pilani, Hyderabad *(CivicAI project)*  
-- 🎖️ **Top Performer** in DAA case study for Dynamic Programming  
-- 📜 Completed certifications:
-  - `Java Full Stack` – Infosys Springboard  
-  - `AI for Everyone` – Coursera (by Andrew Ng)  
-- 💻 Maintainer of mini-project: **BINGE-IT – Online Movie Ticket Platform**
+- 🥇 Runner up @ CodeBeat Hackathon – CivicAI  
+- 📱 Android Dev Intern – Google (Jan–Mar 2025)  
+- ☁️ AWS Data Engg Intern – AWS Academy (Apr–Jun 2025)  
+- 📜 Certified in:
+  - MERN Workshop @ BITS Pilani  
+  - Design Thinking  
+  - AIIP Full-Stack Skill Test  
+- 💻 Projects: BINGE-IT, CivicAI
 
 ---
 
