@@ -1,6 +1,7 @@
-<!-- 🎉 HEADER BANNER -->
+<!-- 🌟 Lively HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi%20👋%20I'm%20Utkarsha&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSBS%20Student%20%7C%20Tech%20Explorer&descSize=20&descAlignY=60&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Hey%20there!%20I'm%20Utkarsha%20🚀&fontSize=42&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20CSBS%20Student%20%7C%20Open%20Source%20Explorer&descSize=20&descAlignY=65&animation=fadeIn&theme=radical" />
+</p>
   <p align="center">
   <img src="https://img.shields.io/badge/Building%20My%20Way%20Into%20Tech-🚀-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Badge: Building My Way Into Tech 🚀">
 </p>
