@@ -12,7 +12,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👩‍💻+B.Tech+CSBS+Student+%7C+Final+Year;🌐+Full+Stack+Developer;🧠+AI+%2B+Hackathon+Enthusiast;💡+Open+Source+Contributor" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final+Year+B.Tech+CSBS+Student;Full-Stack+Developer;AI+%7C+Hackathon+Explorer;Open+Source+Contributor" alt="Typing animation" />
 </p>
 
 ---
