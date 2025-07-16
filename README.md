@@ -49,7 +49,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cplusplus,java,python,js,html,css,react,nodejs,mongodb,mysql,github,vscode,figma&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,mysql,github,vscode,figma&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 ## 🌐 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/utkarsha-salve-253b95259/" target="_blank" title="Connect on LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
