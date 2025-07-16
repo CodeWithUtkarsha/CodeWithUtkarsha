@@ -4,7 +4,7 @@
 </p>
 <!-- 🧑 GIF AVATAR -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="200" alt="Developer Avatar" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="300" alt="Developer Avatar" />
 </p>
 <h2 align="center">🚀 Welcome to My GitHub Profile</h2>
 <!-- TYPING ANIMATION -->
