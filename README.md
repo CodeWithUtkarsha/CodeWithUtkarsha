@@ -66,14 +66,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:utkarshasalve90@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
-
-> _“Strive for progress, not perfection.”_
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
+  📫 Email: <a href="mailto:utkarshasalve90@gmail.com">utkarshasalve90@gmail.com</a>
 </p>
