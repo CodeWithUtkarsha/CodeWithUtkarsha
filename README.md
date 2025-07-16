@@ -18,7 +18,7 @@
 - 💡 I love turning ideas into reality using code  
 - 🌱 Currently learning: **Full-Stack Dev, AI integrations, and System Design**  
 - 🛠️ Exploring real-world problems via **hackathons and projects**  
-- 📫 Reach me at: **utkarsha.vijay2225@gmail.com**
+- 📫 Reach me at: **utkarsha.vijay225@gmail.com**
 
 ---
 
