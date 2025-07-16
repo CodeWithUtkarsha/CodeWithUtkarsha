@@ -62,10 +62,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsha-salve/" target="_blank">
+  <a href="http://www.linkedin.com/in/utkarsha-salve-253b95259/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:utkarsha.vijay2225@gmail.com" target="_blank">
+  <a href="mailto:utkarshasalve90@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail">
   </a>
 </p>
