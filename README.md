@@ -1,6 +1,9 @@
 <!-- 🎉 HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi%20👋%20I'm%20Utkarsha&fontSize=40&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSBS%20Student%20%7C%20Tech%20Explorer&descSize=20&descAlignY=60&theme=tokyonight" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Building%20My%20Way%20Into%20Tech-🚀-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Badge: Building My Way Into Tech 🚀">
+</p>
 </p>
 <!-- 🧑 GIF AVATAR -->
 <p align="center">
@@ -46,7 +49,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,mysql,php,firebase,git,github,vscode,postman,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cplusplus,java,python,js,html,css,react,nodejs,mongodb,mysql,github,vscode,figma&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -60,19 +63,6 @@
 | **SmartFarm OptiPlan** | Optimizes crop yield and irrigation using dynamic programming | Java, Weather APIs, Algorithms |
 
 🔎 More projects → [View All Repositories](https://github.com/CodeWithUtkarsha?tab=repositories)
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithUtkarsha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithUtkarsha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithUtkarsha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
