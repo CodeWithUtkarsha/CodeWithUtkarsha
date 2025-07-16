@@ -63,8 +63,7 @@
 | 🚀 Project | 📝 Description | 🧩 Tech Stack |
 |-----------|----------------|---------------|
 | **CivicAI** | AI-based public grievance redressal portal with intelligent spam filtering | MERN, Flask, AI |
-| **BINGE-IT** | Online movie ticket booking system with seat selection and payment | HTML, CSS, JS, PHP, MySQL |
-| **SmartFarm OptiPlan** | Optimizes crop yield and irrigation using dynamic programming | Java, Weather APIs, Algorithms |
+| **BINGE-IT** | Online movie ticket booking system with seat selection and payment | HTML, CSS, JS |
 
 🔎 More projects → [View All Repositories](https://github.com/CodeWithUtkarsha?tab=repositories)
 
