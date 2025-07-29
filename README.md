@@ -8,8 +8,9 @@
 </p>
 <!-- 🧑 GIF AVATAR -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" height="300" alt="Developer Avatar" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200" height="150" alt="Girl Coding Multiple Screens" />
 </p>
+
 <h2 align="center">🚀 Welcome to My GitHub Profile</h2>
 <!-- TYPING ANIMATION -->
 <p align="center">
