@@ -25,7 +25,7 @@
 - 💻 MERN stack enthusiast focused on clean, scalable web apps  
 - 🌱 Learning DSA, System Design, and Cloud integration  
 - 🤝 Team player with hands-on project and internship experience  
-- 📫 Reach me at: **utkarshasalve90@gmail.com**
+- 📫 Reach me at: **utkarsha.v.salve@gmail.com**
 
 ---
 
@@ -78,7 +78,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:utkarshasalve90@gmail.com" target="_blank" title="Say hi on Gmail">
+  <a href="mailto:utkarsha.v.salve@gmail.com" target="_blank" title="Say hi on Gmail">
     <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="40" height="40" alt="Gmail" />
   </a>
 </p>
