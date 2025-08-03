@@ -14,7 +14,7 @@
 <h2 align="center">🚀 Welcome to My GitHub Profile</h2>
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;MERN+Stack+%26+Android+Developer;Passionate+About+AI-Driven+Solutions" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Aspiring+Software+Engineer;MERN+Stack+%26+Tech+Enthusiast;Passionate+About+AI-Driven+Solutions" alt="Typing animation" />
 </p>
 
 ---
