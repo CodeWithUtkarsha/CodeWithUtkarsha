@@ -30,8 +30,7 @@
 ---
 
 ## 🔧 Currently Working On
-
-- 🛠 Personal portfolio (React + Tailwind)  
+ 
 - 🤖 NLP-based upgrades for CivicAI  
 - 📱 Android app dev (Kotlin) – Google Internship  
 - ☁️ AWS Data Engineering (ETL pipelines)  
