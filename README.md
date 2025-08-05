@@ -63,7 +63,8 @@
 
 | 🚀 Project | 📝 Description | 🧩 Tech Stack |
 |-----------|----------------|---------------|
-| **CivicAI** | AI-based public grievance redressal portal with intelligent spam filtering | MERN, Flask, AI |
+| **CivicAI** | AI-based public grievance redressal portal with intelligent spam filtering | MERN |
+| **TRADE JOURNAL** | Personal trading log to record, track, and analyze trades with performance insights | MERN |
 | **BINGE-IT** | Online movie ticket booking system with seat selection and payment | HTML, CSS, JS |
 
 🔎 More projects → [View All Repositories](https://github.com/CodeWithUtkarsha?tab=repositories)
