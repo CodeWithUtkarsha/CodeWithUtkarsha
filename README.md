@@ -31,7 +31,7 @@
 
 ## 🔧 Currently Working On
  
-- 🤖 NLP-based upgrades for CivicAI  
+- 🤖 NLP-based upgrades for CRP | Trade Journal
 - 📱 Android app dev (Kotlin) – Google Internship  
 - ☁️ AWS Data Engineering (ETL pipelines)  
 - 💡 Upskilling with TypeScript & Next.js
